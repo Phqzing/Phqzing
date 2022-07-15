@@ -1,16 +1,20 @@
-### Hi there 👋
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Phqzing&count_private=false&show_icons=true&hide_border=true&theme=midnight-purple&include_all_commits=true)](#)
 
-<!--
-**Phqzing/Phqzing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phqzing&hide_border=true&theme=midnight-purple)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<a href="https://github.com/Phqzing/PHqx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phqzing&repo=PHqx&theme=midnight-purple" />
+</a>
+<a href="https://github.com/Phqzing/Anti-Interrupt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phqzing&repo=Anti-Interrupt&theme=midnight-purple" />
+</a>
+<a href="https://github.com/Phqzing/PM-Template-Generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phqzing&repo=PM-Template-Generator&theme=midnight-purple" />
+</a>
+<a href="https://github.com/Phqzing/PhqzeCapes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phqzing&repo=PhqzeCapes&theme=midnight-purple" />
+</a>
