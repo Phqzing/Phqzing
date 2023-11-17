@@ -1,4 +1,3 @@
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Phqzing&count_private=false&show_icons=true&hide_border=true&theme=midnight-purple&include_all_commits=true)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phqzing&hide_border=true&theme=midnight-purple)](#)
 
 <br>
