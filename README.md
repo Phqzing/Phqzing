@@ -1,5 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phqzing&hide_border=true&theme=midnight-purple)](#)
-
+![My Stats](https://github-readme-stats.vercel.app/api?username=phqzing&show_icons=true&theme=midnight-purple)
 <br>
 
 <a href="https://github.com/Phqzing/PHqx">
